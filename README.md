@@ -1,10 +1,12 @@
 # Catgame 
 ## How working
-The "Eat", (older verison: "Etetés") is give to a cookie to the cat.
+The "Egészségtelen kaja", is give to a cookie to the cat.
 
-The "Drink", (older verison: "Itatás") is give water to the cat.
+The "Egészséges kaja", is give to a cookie to the cat.
 
-The "Traning", (older verison: "Edzél") the cat starts running.
+The "Itatás", is give water to the cat.
+
+The "Edzél", the cat starts running.
 
 In the lower left corner is the stats.
 
